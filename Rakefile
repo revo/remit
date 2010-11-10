@@ -9,7 +9,7 @@ begin
   require 'jeweler'
 
   Jeweler::Tasks.new do |gem|
-    gem.name = 'remit'
+    gem.name = 'revo-remit'
     gem.summary = 'An API for using the Amazon Flexible Payment Service (FPS).'
     gem.email = 'peter.boling+remit@gmail.com'
     gem.homepage = 'http://github.com/nyc-ruby-meetup/remit'
